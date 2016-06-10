@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="webinterface.json-rpc-browser"
+  version="0.9.0"
+  name="JSON-RPC Browser"
+  provider-name="Team-Kodi">
+  <requires>
+    <import addon="xbmc.json" version="6.0.0"/>
+  </requires>
+  <extension
+    point="xbmc.webinterface"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_AU">JSON-RPC Browser Web Interface.</summary>
+    <summary lang="en_GB">JSON-RPC Browser Web Interface.</summary>
+    <summary lang="en_NZ">JSON-RPC Browser Web Interface.</summary>
+    <summary lang="en_US">JSON-RPC Browser Web Interface.</summary>
+    <description lang="en_AU">A Javascript based JSON-RPC client application. It uses the introspect method to get the methods back then allows a user to call the methods passing values through auto-generated forms.</description>
+    <description lang="en_GB">A Javascript based JSON-RPC client application. It uses the introspect method to get the methods back then allows a user to call the methods passing values through auto-generated forms.</description>
+    <description lang="en_NZ">A Javascript based JSON-RPC client application. It uses the introspect method to get the methods back then allows a user to call the methods passing values through auto-generated forms.</description>
+    <description lang="en_US">A Javascript based JSON-RPC client application. It uses the introspect method to get the methods back then allows a user to call the methods passing values through auto-generated forms.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
