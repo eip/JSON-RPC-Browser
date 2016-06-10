@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <addon
   id="webinterface.json-rpc-browser"
-  version="0.9.0"
+  version="0.9.1"
   name="JSON-RPC Browser"
   provider-name="Team-Kodi">
   <requires>
